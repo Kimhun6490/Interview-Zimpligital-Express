@@ -4,7 +4,7 @@ For interview use only.!
 
 ## How to run
   ```sh
-  npm install npm@latest -g
+  npm run dev
   ```
 ## cURL
   ```sh
